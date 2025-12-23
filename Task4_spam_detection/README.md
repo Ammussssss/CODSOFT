@@ -1,12 +1,3 @@
-# 🚀 CODSOFT Machine Learning Internship
-
-This repository contains all the Machine Learning tasks completed as part of my **CodSoft Internship**.
-Each task is organized into separate folders and includes end-to-end implementation, evaluation, saved models, and documentation.
-
----
-
-## 📂 Completed Tasks
-
 ### ✅ Task 4 – Spam SMS Detection
 **Folder:** `Task4_spam_detection/`
 
@@ -59,3 +50,4 @@ Each task folder contains:
 
 **Amrutha**  
 Machine Learning Intern — CodSoft
+
